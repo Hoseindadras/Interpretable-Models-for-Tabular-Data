@@ -4,8 +4,9 @@ This repository focuses on the development and documentation of interpretable ma
 
 ## Author
 - **Name**: Hosein Dadras
-- **Student ID**: 810102131
-- **Institution**: University of Tehran, School of Electrical and Computer Engineering, Trustworthy AI Group
+- **Academic Mail**: hoseindadras@ut.ac.ir 
+- **Personal Mail**: hoseindadras6@gmail.com 
+
 
 ## Table of Contents
 
